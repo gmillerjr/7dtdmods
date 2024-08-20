@@ -39,7 +39,7 @@
 	<set xpath="/items/item[@name='resourceArrowHeadIron']/property[@name='Stacknumber']/@value">5000</set>	
 	<set xpath="/items/item[@name='resourceArrowHeadSteelAP']/property[@name='Stacknumber']/@value">5000</set>	
 	<set xpath="/items/item[@name='resourceCoal']/property[@name='Stacknumber']/@value">20000</set>	
-	<set xpath="/items/item[@name='resourcePotassiumNitratePowder']/property[@name='Stacknumber']/@value">2000</set>	
+	<set xpath="/items/item[@name='resourcePotassiumNitratePowder']/property[@name='Stacknumber']/@value">5000</set>	
 	<set xpath="/items/item[@name='resourceGunPowder']/property[@name='Stacknumber']/@value">2000</set>	
 	<set xpath="/items/item[@name='resourceFeather']/property[@name='Stacknumber']/@value">500</set>	
 	<set xpath="/items/item[@name='resourceBuckshot']/property[@name='Stacknumber']/@value">10000</set>	
@@ -99,8 +99,8 @@
 	<set xpath="/items/item[@name='foodHoney']/property[@name='Stacknumber']/@value">250</set>
 	<set xpath="/items/item[@name='foodCanBeef']/property[@name='Stacknumber']/@value">250</set>		
 	<set xpath="/items/item[@name='foodCharredMeat']/property[@name='Stacknumber']/@value">250</set>			
-	<set xpath="/items/item[@name='foodRawMeat']/property[@name='Stacknumber']/@value">100</set>
-	<set xpath="/items/item[@name='foodRottingFlesh']/property[@name='Stacknumber']/@value">100</set>	
+	<set xpath="/items/item[@name='foodRawMeat']/property[@name='Stacknumber']/@value">250</set>
+	<set xpath="/items/item[@name='foodRottingFlesh']/property[@name='Stacknumber']/@value">250</set>	
 	<set xpath="/items/item[@name='foodEgg']/property[@name='Stacknumber']/@value">250</set>
 	<set xpath="/items/item[@name='foodCornMeal']/property[@name='Stacknumber']/@value">250</set>	
 	<set xpath="/items/item[@name='foodCropBlueberries']/property[@name='Stacknumber']/@value">250</set>
