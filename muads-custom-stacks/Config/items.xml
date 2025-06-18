@@ -116,6 +116,10 @@
 	<set xpath="/items/item[@name='drinkYuccaJuiceSmoothie']/property[@name='Stacknumber']/@value">20</set>	
 	<set xpath="/items/item[@name='drinkJarCoffee']/property[@name='Stacknumber']/@value">20</set>	
 	<set xpath="/items/item[@name='drinkJarBeer']/property[@name='Stacknumber']/@value">20</set>	
+	<set xpath="/items/item[@name='foodAtomicSmoothie']/property[@name='Stacknumber']/@value">20</set>
+	<set xpath="/items/item[@name='foodBurntSmoothie']/property[@name='Stacknumber']/@value">20</set>
+	<set xpath="/items/item[@name='foodFrostbiteSmoothie']/property[@name='Stacknumber']/@value">20</set>
+	<set xpath="/items/item[@name='foodOasisSmoothie']/property[@name='Stacknumber']/@value">20</set>
 	<!-- Medical -->
 	<set xpath="/items/item[@name='medicalAloeCream']/property[@name='Stacknumber']/@value">500</set>
 	<set xpath="/items/item[@name='medicalBandage']/property[@name='Stacknumber']/@value">500</set>
